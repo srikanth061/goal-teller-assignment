@@ -1,0 +1,42 @@
+.container{
+    margin-left: 200px;
+    width:100%
+}
+.modal{
+    width:50%;
+    height:400px;
+    background-color: skyblue;
+    margin-left: 100px;
+}
+
+.modalcont{
+    margin-left:200px;
+    /* margin-top:150px */
+}
+.searchpage{
+    width:50%;
+    border: 2px solid black;
+    height:500px;
+    overflow: auto;
+}
+.portfolio{
+    margin-top:-400px
+}
+.elemwidth{
+    width:50%
+}
+.m{
+    width:100%;
+    display:flex;
+}
+.buy{
+    width:50%;
+}
+.sell{
+    width:50%
+}
+.m input{
+    
+    width:100px;
+    height:20px
+}
